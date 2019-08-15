@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">لوحة</string>
+
+    <string name="myString">المفاتيح</string>
+
+    <string name="myArabic"> لوحة المفاتيح العربية</string>
+</resources>

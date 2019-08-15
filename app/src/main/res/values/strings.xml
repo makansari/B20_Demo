@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">B20_Demo</string>
+
+    <string name="myString">Hey Guys !!  Welcome to RJT</string>
+
+    <string name="myArabic"> لوحة المفاتيح العربية</string>
+</resources>
